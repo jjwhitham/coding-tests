@@ -1,4 +1,3 @@
-from collections import namedtuple
 from decimal import Decimal, ROUND_HALF_UP
 
 
